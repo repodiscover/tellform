@@ -25,7 +25,7 @@ TellForm is an *opensource alternative to TypeForm* built ontop of nodejs that c
 <img src="design/screenshots/tellform_screenshot1.png" width="500px">
 <img src="design/screenshots/analytics.png" width="500px">
 
-##Features	
+##Featuress	
 
 ###Currently following features are implemented:
 	-Multi-Language Support
